@@ -13,7 +13,7 @@ Business Problem Statements
  Dataset Details
 - Company: Kmart (A leading US online retailer)
 - Time Period: January 2019 – December 2019
-- **Unique Products: 19
+- Unique Products: 19
 - Total Orders:178,437
 - Cities Covered:9
 - Key Metrics:Total Sales, Total Products Sold
@@ -38,4 +38,4 @@ This project provides valuable insights for sales strategy optimization, helping
 Future Improvements
 - Implement machine learning models  for sales forecasting.
 - Automate real-time data processing for better decision-making.
-- Expand analysis to include **customer demographics & behavior patterns
+- Expand analysis to include customer demographics & behavior patterns
